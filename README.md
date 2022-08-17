@@ -1,4 +1,4 @@
-# Google_trands_python
+# Google_trends_python
 Using python to make google trends comparison.
 This code uses pytrends, a package available online, to access google trends. Google Trends provides access to a largely unfiltered sample of actual search requests made to Google. It’s anonymized (no one is personally identified), categorized (determining the topic for a search query) and aggregated (grouped together). This allows us to display interest in a particular topic from around the globe or down to city-level geography. There are two samples of Google Trends data that can be accessed:
 
